@@ -1,62 +1,66 @@
 <div align="center">
 
-# Full-stack development, end to end
+# Product Management · 12 Years of Experience
 
-### From the first sketch to a thoughtful, working product.
+### Turning customer insight into products that deliver.
 
-I’m interested in the complete journey of software: shaping a clear experience, building dependable systems behind it, and delivering something people can use.
-
-<br>
-
-<img src="assets/career-journey.gif" alt="A full-stack product journey from interface to application, data, and delivery" width="920">
+I bring a product perspective from discovery through delivery: understanding real needs, aligning teams around a clear direction, and helping technology become useful customer outcomes.
 
 <br>
 
-**PRODUCT THINKING** &nbsp;·&nbsp; **ENGINEERING CRAFT** &nbsp;·&nbsp; **CONTINUOUS LEARNING**
+<img src="assets/career-journey.gif" alt="12-year product management journey: discover, define, deliver, and grow" width="100%">
+
+<br>
+
+**PRODUCT STRATEGY** &nbsp;·&nbsp; **TECHNICAL FLUENCY** &nbsp;·&nbsp; **CUSTOMER OUTCOMES**
 
 </div>
 
 ---
 
-## A view across the stack
+## A career shaped by the full product journey
 
-Good products are connected systems. I enjoy thinking about how each layer supports the experience as a whole—from the first interaction to the service that powers it and the release that makes it real.
+Across 12 years in product management, the throughline is connecting customer problems, business direction, and the teams who make products real. I value clear priorities, thoughtful collaboration, and progress that can be measured by the value it creates.
 
-| Layer | Focus |
+| Product stage | What it means |
 |:--|:--|
-| **Interface** | Clear, accessible experiences that make complex tasks feel straightforward. |
-| **Application** | Well-structured features and APIs with behavior that is predictable and maintainable. |
-| **Data** | Thoughtful models and reliable flows that keep information useful and consistent. |
-| **Delivery** | Testing, deployment, and feedback loops that help software improve in the real world. |
+| **Discover** | Understand customer needs, context, and the problem worth solving. |
+| **Define** | Set product direction, make priorities clear, and align teams around outcomes. |
+| **Deliver** | Partner across design and engineering to move from intent to a useful, dependable release. |
+| **Grow** | Learn from data and feedback, improve what exists, and identify what should come next. |
 
-## How I approach building
+## Product and technology strengths
 
-### 01 · Understand
-Start with the people, the problem, and the constraints. A shared understanding makes the technical decisions more useful.
+**Product craft**
 
-### 02 · Shape
-Break the problem into a small, coherent experience and a system design that can evolve without unnecessary complexity.
+- Product vision, strategy, and outcome-focused roadmaps
+- Customer discovery, problem framing, and prioritization
+- Cross-functional alignment and clear communication
+- Product delivery, iteration, and continuous improvement
 
-### 03 · Build
-Work across the interface and the underlying services, paying attention to clarity, reliability, accessibility, and maintainability.
+**Technical fluency**
 
-### 04 · Deliver
-Test the important paths, ship in manageable steps, and use feedback to decide what should improve next.
+- Connecting customer and product needs to engineering trade-offs
+- Working with API and integration concepts
+- Using data, metrics, and feedback to inform product decisions
+- Thinking across systems, dependencies, and the software delivery lifecycle
 
-## The craft I value
+## How I work
 
-- **Clarity over cleverness** — code and interfaces should be understandable to the next person.
-- **Quality throughout the stack** — a polished UI matters, and so do reliable APIs, careful data handling, and solid delivery.
-- **Practical progress** — choose the simplest approach that solves the real problem well.
-- **Curiosity with purpose** — keep learning, then apply that learning where it creates value.
-- **Ownership through feedback** — shipping is a beginning; observation and iteration are part of the work.
+1. **Start with the problem.** Build a shared understanding of the customer, the context, and the outcome to improve.
+2. **Make the direction clear.** Turn insight into goals and priorities that teams can act on.
+3. **Partner through delivery.** Keep product intent connected to design and engineering decisions.
+4. **Learn and adapt.** Use evidence and feedback to improve the product and choose the next step.
 
-## Growing as an engineer
+## What I value
 
-Technology and product needs keep changing. I value a career built on strong fundamentals, thoughtful collaboration, and the habit of getting a little better with every project. The goal is not just to write more code—it is to build better software, with people, for people.
+- **Useful outcomes over activity** — progress matters when it solves a real problem.
+- **Strong partnership** — the best product decisions draw on customer, design, business, and engineering perspectives.
+- **Clarity with context** — teams do their best work when they understand both the “what” and the “why.”
+- **Continuous learning** — every release is an opportunity to listen, improve, and make better decisions.
 
 <div align="center">
 
-*Learn continuously. Build deliberately. Deliver with care.*
+*Better understanding. Clearer direction. Products that make a difference.*
 
 </div>
